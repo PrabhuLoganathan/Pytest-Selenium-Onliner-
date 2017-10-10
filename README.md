@@ -1,4 +1,4 @@
-The test was a part of automatization test course. The test use Selenuim WebDriver and PyTest.
+The test was a part of test automation course. The test uses Selenuim WebDriver and PyTest.
 
 Test-case:
 1) Open page http://onliner.by/
